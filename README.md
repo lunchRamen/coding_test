@@ -24,7 +24,7 @@
 |2445|[별찍기8](https://www.acmicpc.net/problem/2445)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EB%B3%84%EC%B0%8D%EA%B8%B08.cpp)|
 |2579|[계단 오르기](https://www.acmicpc.net/problem/2579)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0.cpp)|
 |2609|[최대공 최소공](https://www.acmicpc.net/problem/2609)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%B5%9C%EB%8C%80%EA%B3%B5%20%EC%B5%9C%EC%86%8C%EA%B3%B5.cpp)|
-|2751|수 정렬하기2[https://www.acmicpc.net/problem/2751]()|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02.cpp)|
+|2751|[수 정렬하기](https://www.acmicpc.net/problem/2751])|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02.cpp)|
 |6588|[골드바흐의 추측](https://www.acmicpc.net/problem/6588)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1.cpp)|
 |9012|[괄호](https://www.acmicpc.net/problem/9012)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EA%B4%84%ED%98%B8.cpp)|
 |9093|[단어 뒤집기](https://www.acmicpc.net/problem/9093)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EB%8B%A8%EC%96%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0.cpp)|
