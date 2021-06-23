@@ -3,7 +3,7 @@
 #백준
 |문제번호|문제이름|코드|
 |:------:|:------:|:---:|
-|15649|[N과 M (1)](https://www.acmicpc.net/problem/15649)|'''[Link](https://github.com/hogumachu/Coding-Test/blob/CodingTestPractice/ETC/15649%EB%B2%88.swift)'''|
+|15649|[N과 M (1)](https://www.acmicpc.net/problem/15649)||
 
 #프로그래머스
 
