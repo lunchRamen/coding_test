@@ -115,7 +115,40 @@
 |문제유형|문제이름|코드|
 |:------:|:------:|:---:|
 |연습문제|[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|[Link](https://github.com/lunchRamen/coding_test/commit/1a8054d81e5768172f9ba7dff156856ac03ea41f)|
-||||
+|연습문제|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.cpp)|
+|연습문제|[x간격n숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/x%EA%B0%84%EA%B2%A9n%EC%88%AB%EC%9E%90.cpp)|
+|정렬|[k번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/K%EB%B2%88%EC%A7%B8%EC%88%98.cpp)|
+|Hash|[완주하지못한선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[Link](https://github.com/lunchRamen/coding_test/tree/main/Programmers)|
+|BF|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.cpp)|
+|월간 코드 챌린지2|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.cpp)|
+|summer/winter coding(2018)|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)|
+|2021 dev-matching:웹 백엔드|[로또 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EB%A1%9C%EB%98%90%20%EC%88%9C%EC%9C%84.cpp)|
+|Greedy|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%B2%B4%EC%9C%A1%EB%B3%B5.cpp)|
+|월간 코드 챌린지1|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EB%82%B4%EC%A0%81.cpp)|
+|stack/queue|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.cpp)|
+|summer/winter coding(2019)|[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95.cpp)|
+|DFS/BFS|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.cpp)|
+|summer/winter coding(2018)|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[Link](https://github.com/lunchRamen/coding_test/tree/main/Programmers)|
+|BF|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.cpp)|
+|stack/queue|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%ED%94%84%EB%A6%B0%ED%84%B0.cpp)|
+|Hash|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.cpp)|
+|2019 카카오 겨울 인턴십|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%ED%8A%9C%ED%94%8C.cpp)|
+|정렬|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.cpp)|
+|정렬|[H-index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/H-index.cpp)|
+|연습문제|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/2016%EB%85%84.cpp)|
+||[]()|[Link]()|
+||[]()|[Link]()|
+||[]()|[Link]()|
+||[]()|[Link]()|
+||[]()|[Link]()|
+||[]()|[Link]()|
+||[]()|[Link]()|
+||[]()|[Link]()|
+||[]()|[Link]()|
+||[]()|[Link]()|
+||[]()|[Link]()|
+||[]()|[Link]()|
+
 
 #기타
 |문제유형|문제이름|코드|
