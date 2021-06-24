@@ -114,7 +114,8 @@
 #프로그래머스
 |문제유형|문제이름|코드|
 |:------:|:------:|:---:|
-|연습문제|124 나라의 숫자|[Link](https://github.com/lunchRamen/coding_test/commit/1a8054d81e5768172f9ba7dff156856ac03ea41f)|
+|연습문제|[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|[Link](https://github.com/lunchRamen/coding_test/commit/1a8054d81e5768172f9ba7dff156856ac03ea41f)|
+||||
 
 #기타
 |문제유형|문제이름|코드|
