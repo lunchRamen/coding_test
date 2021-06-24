@@ -136,18 +136,34 @@
 |정렬|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.cpp)|
 |정렬|[H-index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/H-index.cpp)|
 |연습문제|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/2016%EB%85%84.cpp)|
-||[]()|[Link]()|
-||[]()|[Link]()|
-||[]()|[Link]()|
-||[]()|[Link]()|
-||[]()|[Link]()|
-||[]()|[Link]()|
-||[]()|[Link]()|
-||[]()|[Link]()|
-||[]()|[Link]()|
-||[]()|[Link]()|
-||[]()|[Link]()|
-||[]()|[Link]()|
+|summer/winter coding(2018)|[점프와 순간이동](https://programmers.co.kr/learn/courses/30/lessons/12980)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%EC%9D%B4%EB%8F%99.cpp)|
+|연습문제|[가운데글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EA%B0%80%EC%9A%B4%EB%8D%B0%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.cpp)|
+|연습문제|[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0.cpp)|
+|연습문제|[같은숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EA%B0%99%EC%9D%80%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.cpp)|
+|2018 카카오|[압축](https://programmers.co.kr/learn/courses/30/lessons/17684)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%95%95%EC%B6%95.cpp)|
+|연습문제|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.cpp)|
+|2018 카카오|[n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.cpp)|
+|연습문제|[나누어 떨어지는 숫자배열](https://programmers.co.kr/learn/courses/30/lessons/12910)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%EB%B0%B0%EC%97%B4.cpp)|
+|연습문제|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.cpp)|
+|연습문제|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.cpp)|
+|연습문제|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.cpp)|
+|연습문제|[문자열 내맘대로 정렬](https://programmers.co.kr/learn/courses/30/lessons/12915)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%EB%A7%98%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC.cpp)|
+|연습문제|[문자열 내 p,y의 수](https://programmers.co.kr/learn/courses/30/lessons/12916)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20py.cpp)|
+|연습문제|[문자열 내림차순](https://programmers.co.kr/learn/courses/30/lessons/12917)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C.cpp)|
+|연습문제|[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.cpp)|
+|연습문제|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.cpp)|
+|연습문제|[소수 찾기2](https://programmers.co.kr/learn/courses/30/lessons/12921)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B02.cpp)|
+|연습문제|[수박수박수](https://programmers.co.kr/learn/courses/30/lessons/12922)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.cpp)|
+|연습문제|[숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.cpp)|
+|연습문제|[문자열 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)|[Link](https://github.com/lunchRamen/coding_test/commit/b300bc22f04ce26125d9429145ad2b4a894b1bc1)|
+|연습문제|[시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8.cpp)|
+|연습문제|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)|
+|연습문제|[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0.cpp)|
+|연습문제|[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)|
+|연습문제|[정수 내림차순 배치](https://programmers.co.kr/learn/courses/30/lessons/12933)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%20%EB%B0%B0%EC%B9%98.cpp)|
+|연습문제|[Jadencase 문자열](https://programmers.co.kr/learn/courses/30/lessons/12951)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/Jadencase%20%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)|
+|연습문제|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.cpp)|
+|연습문제|[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.cpp)|
 
 
 #기타
