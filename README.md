@@ -108,6 +108,7 @@
 |16929|[twoDots](https://www.acmicpc.net/problem/16929)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/twoDots.cpp)|
 |16940|[BFS스페셜저지](https://www.acmicpc.net/problem/16940)|[Link]()|<-아직 못 품
 |16947|[서울지하철2호선](https://www.acmicpc.net/problem/16947)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%84%9C%EC%9A%B8%EC%A7%80%ED%95%98%EC%B2%A02%ED%98%B8%EC%84%A0.cpp)|<-많이 어려웠음. 다시 풀어보기
+|18290|[NM과 K1](https://www.acmicpc.net/problem/18290)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/NM%EA%B3%BCK1.java)|
 
 
 
