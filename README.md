@@ -89,7 +89,7 @@
 |1182|[부분수열의 합](https://www.acmicpc.net/problem/1182)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.cpp)|
 |1248|[맞춰봐](https://www.acmicpc.net/problem/1248)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EB%A7%9E%EC%B6%B0%EB%B4%90.cpp)|<-애먹었던 문제
 |2529|[부등호](https://www.acmicpc.net/problem/2529)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EB%B6%80%EB%93%B1%ED%98%B8.cpp)|<-어려웠던 문제
-|2529|[부등호 ](https://www.acmicpc.net/problem/2529)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EB%B6%80%EB%93%B1%ED%98%B8.java)|
+|2529|[부등호 java](https://www.acmicpc.net/problem/2529)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EB%B6%80%EB%93%B1%ED%98%B8.java)|
 |11723|[집합](https://www.acmicpc.net/problem/11723)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%A7%91%ED%95%A9.cpp)|
 |1260|[DFS와BFS](https://www.acmicpc.net/problem/1260)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/DFS%EC%99%80BFS.cpp)|
 |1261|[알고스팟](https://www.acmicpc.net/problem/1261)|[Link]()|<-아직 못품
