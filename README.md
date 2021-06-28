@@ -58,6 +58,7 @@
 |1476|[날짜계산(bfs)](https://www.acmicpc.net/problem/1476)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EB%82%A0%EC%A7%9C%EA%B3%84%EC%82%B0.cpp)|
 |1748|[수 이어쓰기1(bfs)](https://www.acmicpc.net/problem/1748)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%88%98%20%EC%9D%B4%EC%96%B4%EC%93%B0%EA%B8%B01.cpp)|
 |1759|[암호만들기(재귀)](https://www.acmicpc.net/problem/1759)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%95%94%ED%98%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)|
+|1759|[암호만들기(재귀) java](https://www.acmicpc.net/problem/1759)|[Link]https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%95%94%ED%98%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.java|
 |2098|[TSP(BF)](https://www.acmicpc.net/problem/2098)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/TSP.cpp)|
 |10971|[TSP2](https://www.acmicpc.net/problem/10971)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/TSP2.cpp)|
 |2309|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4.cpp)|
