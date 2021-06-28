@@ -71,6 +71,7 @@
 |10974|[모든 순열(BF)](https://www.acmicpc.net/problem/10974)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EB%AA%A8%EB%93%A0%EC%88%9C%EC%97%B4.cpp)|
 |14500|[테트로미노](https://www.acmicpc.net/problem/14500)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8.cpp)|
 |14501|[퇴사](https://www.acmicpc.net/problem/14501)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%ED%87%B4%EC%82%AC.cpp)|
+|14501|[퇴사 java](https://www.acmicpc.net/problem/14501)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%ED%87%B4%EC%82%AC.java)|
 |14889|[스타트와 링크](https://www.acmicpc.net/problem/14889)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC.cpp)|<- 많이 애먹었던 문제
 |14889|[스타트와 링크(bitmask)](https://www.acmicpc.net/problem/14889)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%ACbitmask.cpp)|
 |15654|[N과M5](https://www.acmicpc.net/problem/15654)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/N%EA%B3%BCM%205.cpp)|
