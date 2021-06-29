@@ -67,7 +67,8 @@
 |6603|[로또](https://www.acmicpc.net/problem/6603)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EB%A1%9C%EB%98%90.cpp)|
 |10819|[차이를 최대로](https://www.acmicpc.net/problem/10819)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%B0%A8%EC%9D%B4%EB%A5%BC%20%EC%B5%9C%EB%8C%80%EB%A1%9C.cpp)|
 |10972|[다음 순열(BF)](https://www.acmicpc.net/problem/10972)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EB%8B%A4%EC%9D%8C%EC%88%9C%EC%97%B4.cpp)|
-|10973|[이전 순열(BF)](https://www.acmicpc.net/problem/10972)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%9D%B4%EC%A0%84%EC%88%9C%EC%97%B4.cpp)|
+|10973|[이전 순열(BF)](https://www.acmicpc.net/problem/10973)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%9D%B4%EC%A0%84%EC%88%9C%EC%97%B4.cpp)|
+|10973|[이전 순열(BF) java](https://www.acmicpc.net/problem/10973)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%9D%B4%EC%A0%84%EC%88%9C%EC%97%B4.java)|
 |10974|[모든 순열(BF)](https://www.acmicpc.net/problem/10974)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EB%AA%A8%EB%93%A0%EC%88%9C%EC%97%B4.cpp)|
 |14500|[테트로미노](https://www.acmicpc.net/problem/14500)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8.cpp)|
 |14501|[퇴사](https://www.acmicpc.net/problem/14501)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%ED%87%B4%EC%82%AC.cpp)|
