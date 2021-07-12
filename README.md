@@ -116,7 +116,8 @@
 |16947|[서울지하철2호선](https://www.acmicpc.net/problem/16947)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%84%9C%EC%9A%B8%EC%A7%80%ED%95%98%EC%B2%A02%ED%98%B8%EC%84%A0.cpp)|<-많이 어려웠음. 다시 풀어보기
 |18290|[NM과 K1](https://www.acmicpc.net/problem/18290)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/NM%EA%B3%BCK1.java)|
 |14225|[부분수열의 합 2](https://www.acmicpc.net/problem/14225)|[Link](https://github.com/lunchRamen/coding_test/commit/189145c7dbdf2dcee057e7941c43074c11b1002c)|
-
+|14888|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%97%B0%EC%82%B0%EC%9E%90%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.java)|
+||[]()|[Link]()|
 
 
 #프로그래머스
