@@ -119,7 +119,9 @@
 |14888|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%97%B0%EC%82%B0%EC%9E%90%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.java)|
 |16197|[두 동전](https://www.acmicpc.net/problem/16197)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EB%91%90%EB%8F%99%EC%A0%84.java)|
 |16198|[에너지 모으기](https://www.acmicpc.net/problem/16198)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%97%90%EB%84%88%EC%A7%80%EB%AA%A8%EC%9C%BC%EA%B8%B0.java)|
+|9663|[N-Queen](https://www.acmicpc.net/problem/9663)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/NQueen.java)|
 ||[]()|[Link]()|
+
 
 
 
