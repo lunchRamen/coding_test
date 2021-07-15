@@ -120,6 +120,7 @@
 |16197|[두 동전](https://www.acmicpc.net/problem/16197)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EB%91%90%EB%8F%99%EC%A0%84.java)|
 |16198|[에너지 모으기](https://www.acmicpc.net/problem/16198)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%97%90%EB%84%88%EC%A7%80%EB%AA%A8%EC%9C%BC%EA%B8%B0.java)|
 |9663|[N-Queen](https://www.acmicpc.net/problem/9663)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/NQueen.java)|
+|2580|[스도쿠](https://www.acmicpc.net/problem/2580)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%8A%A4%EB%8F%84%EC%BF%A0.java)|
 ||[]()|[Link]()|
 
 
