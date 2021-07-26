@@ -122,6 +122,7 @@
 |9663|[N-Queen](https://www.acmicpc.net/problem/9663)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/NQueen.java)|
 |2580|[스도쿠](https://www.acmicpc.net/problem/2580)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%8A%A4%EB%8F%84%EC%BF%A0.java)|
 |1339|[단어수학](https://www.acmicpc.net/problem/1339)|[Link](https://github.com/lunchRamen/coding_test/commit/e2926e9d5a00bac723628f76d95d4305b80574d8)|
+|1062|[가르침](https://www.acmicpc.net/problem/1062)|[Link](https://github.com/lunchRamen/coding_test/commit/4aecfb3883e65be66f0abab85bccb79b23ffe71e)|
 ||[]()|[Link]()|
 
 
