@@ -123,6 +123,7 @@
 |2580|[스도쿠](https://www.acmicpc.net/problem/2580)|[Link](https://github.com/lunchRamen/coding_test/blob/main/BaekJoon/%EC%8A%A4%EB%8F%84%EC%BF%A0.java)|
 |1339|[단어수학](https://www.acmicpc.net/problem/1339)|[Link](https://github.com/lunchRamen/coding_test/commit/e2926e9d5a00bac723628f76d95d4305b80574d8)|
 |1062|[가르침](https://www.acmicpc.net/problem/1062)|[Link](https://github.com/lunchRamen/coding_test/commit/4aecfb3883e65be66f0abab85bccb79b23ffe71e)|
+|13460|[구슬찾기 2](https://www.acmicpc.net/problem/13460)|[Link](https://github.com/lunchRamen/coding_test/commit/68ebcf5df766f415417a9d7561357b17f14321a3)|
 ||[]()|[Link]()|
 
 
