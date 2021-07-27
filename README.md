@@ -125,6 +125,7 @@
 |1062|[가르침](https://www.acmicpc.net/problem/1062)|[Link](https://github.com/lunchRamen/coding_test/commit/4aecfb3883e65be66f0abab85bccb79b23ffe71e)|
 |13460|[구슬찾기 2](https://www.acmicpc.net/problem/13460)|[Link](https://github.com/lunchRamen/coding_test/commit/68ebcf5df766f415417a9d7561357b17f14321a3)|
 |12100|[2048 easy](https://www.acmicpc.net/problem/12100)|[Link](https://github.com/lunchRamen/coding_test/commit/dab1fc10d04c6336a0eb16e173b523d45a24d155)|
+|2003|[수들의 합2](https://www.acmicpc.net/problem/2003)|[Link](https://github.com/lunchRamen/coding_test/commit/2fdd3807285b505121e8e87a340f4a2657433606)|
 ||[]()|[Link]()|
 
 
