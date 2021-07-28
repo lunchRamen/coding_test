@@ -128,7 +128,9 @@
 |2003|[수들의 합2](https://www.acmicpc.net/problem/2003)|[Link](https://github.com/lunchRamen/coding_test/commit/2fdd3807285b505121e8e87a340f4a2657433606)|
 |2003|[수들의 합2(투포인터)](https://www.acmicpc.net/problem/2003)|[Link](https://github.com/lunchRamen/coding_test/commit/6ee0524516f74b8d98c3f14270a6d60f4fb38760)|
 |10866|[덱](https://www.acmicpc.net/problem/10866)|[Link](https://github.com/lunchRamen/coding_test/commit/44cf74c42b47c15d4b87b9277cac651b892187f1)|
+|2143|[두 배열의 합](https://www.acmicpc.net/problem/10866)|[Link](https://github.com/lunchRamen/coding_test/commit/7fb35f9aeb3a8f565a2e0adfdb2d9eada7ffc374)|
 ||[]()|[Link]()|
+
 
 
 
