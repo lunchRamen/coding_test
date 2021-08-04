@@ -189,6 +189,7 @@
 |연습문제|[Jadencase 문자열](https://programmers.co.kr/learn/courses/30/lessons/12951)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/Jadencase%20%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)|
 |연습문제|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.cpp)|
 |연습문제|[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.cpp)|
+|위클리 챌린지|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|[Link](https://github.com/lunchRamen/coding_test/commit/b9b00a820e9fd7b9bc3a77f337f6f7a94ec9519c)|
 
 
 #기타
