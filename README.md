@@ -133,6 +133,7 @@
 |16947|[서울역 지하철 2호선](https://www.acmicpc.net/problem/16947)|[Link](https://github.com/lunchRamen/coding_test/commit/cf345384d2969eafd1920c2997149dd7023162af)|
 |12946|[육각보드](https://www.acmicpc.net/problem/12946)|[Link](https://github.com/lunchRamen/coding_test/commit/8d375c5cd08ef987146150ce89dfd5f00be0a115)|
 |16940|[bfs 스페셜 저지](https://www.acmicpc.net/problem/12946)|[Link](https://github.com/lunchRamen/coding_test/commit/a4cb943586c3016873b345b54672b8aeb170de3e)|
+|16928|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|[Link](https://github.com/lunchRamen/coding_test/commit/bc1c4b15a181248ef51016bf5e77aa99b444b183)|
 ||[]()|[Link]()|
 
 
