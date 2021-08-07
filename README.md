@@ -132,6 +132,7 @@
 |16929|[Two Dots](https://www.acmicpc.net/problem/16929)|[Link](https://github.com/lunchRamen/coding_test/commit/589434acbce7fb8ccccf73f45547442ce209126a)|
 |16947|[서울역 지하철 2호선](https://www.acmicpc.net/problem/16947)|[Link](https://github.com/lunchRamen/coding_test/commit/cf345384d2969eafd1920c2997149dd7023162af)|
 |12946|[육각보드](https://www.acmicpc.net/problem/12946)|[Link](https://github.com/lunchRamen/coding_test/commit/8d375c5cd08ef987146150ce89dfd5f00be0a115)|
+|16940|[bfs 스페셜 저지](https://www.acmicpc.net/problem/12946)|[Link](https://github.com/lunchRamen/coding_test/commit/a4cb943586c3016873b345b54672b8aeb170de3e)|
 ||[]()|[Link]()|
 
 
