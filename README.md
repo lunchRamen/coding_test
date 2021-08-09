@@ -199,6 +199,7 @@
 |연습문제|[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)|[Link](https://github.com/lunchRamen/coding_test/blob/main/Programmers/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.cpp)|
 |위클리 챌린지|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|[Link](https://github.com/lunchRamen/coding_test/commit/b9b00a820e9fd7b9bc3a77f337f6f7a94ec9519c)|
 |DP|[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|[Link](https://github.com/lunchRamen/coding_test/commit/52501ab2359b7807801ba25c71f5f0b41d473eb5)|
+|위클리 챌린지|[상호표현](https://programmers.co.kr/learn/courses/30/lessons/83201)|[Link](https://github.com/lunchRamen/coding_test/commit/4435cb6eff5604197e8deed6d1d8e1c21cd190f9)|
 
 
 #기타
