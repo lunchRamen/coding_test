@@ -136,6 +136,7 @@
 |16928|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|[Link](https://github.com/lunchRamen/coding_test/commit/bc1c4b15a181248ef51016bf5e77aa99b444b183)|
 |16948|[데스나이트](https://www.acmicpc.net/problem/16948)|[Link](https://github.com/lunchRamen/coding_test/commit/91a1e57d67346ce8572d1330396009e59855c37e)|
 |14502|[연구소](https://www.acmicpc.net/problem/14502)|[Link](https://github.com/lunchRamen/coding_test/commit/a3e00a3ee55835c95795e68c59c13d45cf7e2cdb)|
+|12886|[돌그룹](https://www.acmicpc.net/problem/12886)|[Link](https://github.com/lunchRamen/coding_test/commit/b5bcf5a6f02c0bb8189c134dac4b90f475fe44c3)|
 ||[]()|[Link]()|
 
 
