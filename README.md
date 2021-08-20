@@ -140,6 +140,7 @@
 |16968|[차량 번호판1](https://www.acmicpc.net/problem/16968)|[Link](https://github.com/lunchRamen/coding_test/commit/6838c5998dd4d1987ad12984e683fd6fb70fb7c8)|
 |16917|[양념 반 후라이드 반](https://www.acmicpc.net/problem/16917)|[Link](https://github.com/lunchRamen/coding_test/commit/2756b16ae0f6bc136d69d08e991d5be9c984d2c9)|
 |16922|[로마자 만들기](https://www.acmicpc.net/problem/16922)|[Link](https://github.com/lunchRamen/coding_test/commit/4edc766aca31272469b725ecb633068b2cb3e876)|
+|16924|[십자가 찾기](https://www.acmicpc.net/problem/16924)|[Link](https://github.com/lunchRamen/coding_test/commit/d8b37af25c24a5d05783f53f4aca2b14a2151250)|
 ||[]()|[Link]()|
 
 
