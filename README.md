@@ -141,7 +141,15 @@
 |16917|[양념 반 후라이드 반](https://www.acmicpc.net/problem/16917)|[Link](https://github.com/lunchRamen/coding_test/commit/2756b16ae0f6bc136d69d08e991d5be9c984d2c9)|
 |16922|[로마자 만들기](https://www.acmicpc.net/problem/16922)|[Link](https://github.com/lunchRamen/coding_test/commit/4edc766aca31272469b725ecb633068b2cb3e876)|
 |16924|[십자가 찾기](https://www.acmicpc.net/problem/16924)|[Link](https://github.com/lunchRamen/coding_test/commit/d8b37af25c24a5d05783f53f4aca2b14a2151250)|
+|16936|[나3곱2](https://www.acmicpc.net/problem/16936)|[Link](https://github.com/lunchRamen/coding_test/commit/6fccf0a6a88977083693119a5e95ee6e990d9ff2)|
 ||[]()|[Link]()|
+||[]()|[Link]()|
+||[]()|[Link]()|
+||[]()|[Link]()|
+||[]()|[Link]()|
+||[]()|[Link]()|
+||[]()|[Link]()|
+
 
 
 
