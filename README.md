@@ -144,7 +144,7 @@
 |16936|[나3곱2](https://www.acmicpc.net/problem/16936)|[Link](https://github.com/lunchRamen/coding_test/commit/6fccf0a6a88977083693119a5e95ee6e990d9ff2)|
 |16937|[두 스티커](https://www.acmicpc.net/problem/16937)|[Link](https://github.com/lunchRamen/coding_test/commit/ca8d2fcb65d2dd22fd69355931019e17e12cb987)|
 |16938|[캠프준비](https://www.acmicpc.net/problem/16938)|[Link](https://github.com/lunchRamen/coding_test/commit/b5cc50026b3e43ce89c6b764da4c487bb1318b15)|
-||[]()|[Link]()|
+|16942|[숫자 재배치](https://www.acmicpc.net/problem/16943)|[Link](https://github.com/lunchRamen/coding_test/commit/85dc950436afe257958d17025a233bcc210925c1)|
 ||[]()|[Link]()|
 ||[]()|[Link]()|
 ||[]()|[Link]()|
