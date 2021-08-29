@@ -23,7 +23,6 @@ import java.util.*;
 public class 등차수열변환 {
     static int n;
     static int[] a;
-    static int ans=-1;
 
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
@@ -49,8 +48,8 @@ public class 등차수열변환 {
                 for(int i=2;i<n;i++){
                     an+=diff;
                     if(a[i]==an) continue;
-                    if(a[i]-1==an) change++;
-                    if(a[i]+1==an) change++;
+                    else if(a[i]-1==an) change++;
+                    else if(a[i]+1==an) change++;
                     else{
                         ok=false;
                         break;
@@ -66,3 +65,4 @@ public class 등차수열변환 {
         System.out.println(ans);
     }
 }
+
