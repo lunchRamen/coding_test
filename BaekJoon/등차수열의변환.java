@@ -32,6 +32,10 @@ public class 등차수열변환 {
         for(int i=0;i<n;i++){
             a[i]=sc.nextInt();
         }
+        if(n==1){
+            System.out.println(0);
+            System.exit(0);
+        }
         int ans=-1;
         for(int d1=-1;d1<=1;d1++){
             for(int d2=-1;d2<=1;d2++){
