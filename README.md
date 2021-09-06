@@ -149,7 +149,7 @@
 |15683|[감시](https://www.acmicpc.net/problem/16637)|[Link](https://github.com/lunchRamen/coding_test/commit/2f1a6dcc97a22761680f0d5e670e3f21e0aca230)|
 |17088|[등차수열의 변환](https://www.acmicpc.net/problem/17088)|[Link](https://github.com/lunchRamen/coding_test/commit/747483961c02643843d3c0ecf3a340c4ef00c2ee)|
 |15686|[치킨배달](https://www.acmicpc.net/problem/15686)|[Link](https://github.com/lunchRamen/coding_test/commit/a59528894403267befa55ff432bf785e25bb3b18)|
-||[]()|[Link]()|
+|2210|[숫자판 점프](https://www.acmicpc.net/problem/2210)|[Link](https://github.com/lunchRamen/coding_test/commit/5cec95fca30e484a288ab67a7f00e2c67effa767)|
 ||[]()|[Link]()|
 ||[]()|[Link]()|
 ||[]()|[Link]()|
