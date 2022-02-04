@@ -1,4 +1,4 @@
-# c++,Java을 이용한 백준,프로그래머스,기타 알고리즘 사이트 PS문제 코드 및 분석
+# c++,Java,Python을 이용한 백준,프로그래머스,기타 알고리즘 사이트 PS문제 코드 및 분석
 
 #백준
 |문제번호|문제이름|코드|
@@ -151,7 +151,7 @@
 |15686|[치킨배달](https://www.acmicpc.net/problem/15686)|[Link](https://github.com/lunchRamen/coding_test/commit/a59528894403267befa55ff432bf785e25bb3b18)|
 |2210|[숫자판 점프](https://www.acmicpc.net/problem/2210)|[Link](https://github.com/lunchRamen/coding_test/commit/5cec95fca30e484a288ab67a7f00e2c67effa767)|
 |17089|[세 친구](https://www.acmicpc.net/problem/17089)|[Link](https://github.com/lunchRamen/coding_test/commit/60f5e911df059cc2b2172e180c3076fc68306016)|
-||[]()|[Link]()|
+|1011|[Alpha centauri](https://www.acmicpc.net/problem/1011)|[Link](https://github.com/lunchRamen/coding_test/commit/7f24264342cbfa6e7493c705bb34f6e77a67f480)|
 ||[]()|[Link]()|
 ||[]()|[Link]()|
 ||[]()|[Link]()|
